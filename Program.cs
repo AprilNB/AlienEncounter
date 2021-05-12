@@ -1,0 +1,12 @@
+﻿using System;
+
+namespace HelloWorld
+{
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            Console.WriteLine("Greetings Earthlings! I come in peace...probably 👽 ☮.");
+        }
+    }
+}
